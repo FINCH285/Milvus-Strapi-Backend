@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tech_support_knowledgebases",
+  "info": {
+    "singularName": "tech-support-knowledgebase",
+    "pluralName": "tech-support-knowledgebases",
+    "displayName": "tech-support-knowledgebase"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "documents": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
