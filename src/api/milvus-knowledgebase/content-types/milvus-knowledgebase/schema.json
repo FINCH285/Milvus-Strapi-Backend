@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "milvus_knowledgebases",
+  "info": {
+    "singularName": "milvus-knowledgebase",
+    "pluralName": "milvus-knowledgebases",
+    "displayName": "MILVUS-KNOWLEDGEBASE",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "blocks"
+    }
+  }
+}
